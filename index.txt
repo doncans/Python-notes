@@ -1,0 +1,20 @@
+Introduction
+Features
+Python installation on windows
+Hello world program(interpreter and file)
+Data types and data structures
+Python Variables and keywords
+Literals and operators
+conditions and loops
+Functions and built-in functions
+File I/O
+Exception handling
+oops
+---------------------------------
+WEB Applications Intro
+HTTP Methods
+Django
+DRF
+Flask (basics)
+Flask REST Api
+

@@ -4,11 +4,11 @@ I) Features:
     1. Easy to understand
     2. High Level Programming language
     3. Interpreted Language
-    4.Standard Libraries
-    5.Huge Cummunity support
-    6.Portable
-    7.Extensible
-    8.Inegrated 
+    4. Standard Libraries
+    5. Huge Cummunity support
+    6. Portable
+    7. Extensible
+    8. Inegrated 
 
 
 Python can used for diffent domain software develoments(like desktop GUI applications, data science, iot, ai, ml, web applications, networking, telecome, storage...etc)

@@ -1,5 +1,6 @@
 # Python-notes
 I) Features:
+
     1. Easy to understand
     2. High Level Programming language
     3. Interpreted Language

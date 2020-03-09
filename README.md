@@ -58,6 +58,7 @@ st1[1] = 'e'
 st1[2] = 'l' ....like that etc..
 
 3>slicing allow to access part of string
+syntax:
 
 [start:stop:step]
 

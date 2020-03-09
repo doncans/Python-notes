@@ -19,10 +19,13 @@ Python Data Types:
 
 Numeric: 
         Int, Float, Complex
+        
 Dictionary : 
         dict 
+        
 sequence Type:
     List, Tuple, String
+    
 Set
 Boolean
 

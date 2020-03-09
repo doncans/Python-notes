@@ -11,6 +11,7 @@ I) Features:
     8. Inegrated 
     
 note: Python can used for diffent domain software develoments(like desktop GUI applications, data science, iot, ai, ml, web applications, networking, telecome, storage...etc)
+
 Reserved Words:
 
 and, del, global, not, with, as, elif, if, or, yield, assert, else, import, pass, break, except, in, raise, class, finally,   is, return, continue,  for, lambda, try, def, from, nonlocal, while

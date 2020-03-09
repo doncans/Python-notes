@@ -34,7 +34,8 @@ Variable:
 A Python variable is a symbolic name that is a reference or pointer to an object. Once an object is assigned to a variable, you can refer to the object by that name. But the data itself is still contained within the object.
 
 a = 10
-a reference to the integer object
+
+Here 'a' is referencing integer object 10
 
 II) python installation on Windows
 

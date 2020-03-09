@@ -57,6 +57,13 @@ st1[1] = 'e'
 
 st1[2] = 'l' ....like that etc..
 
+Negative Indexing: starts with -1
+
+st1[-1] = 'd'
+
+st1[-2] = 'l'
+
+
 3>slicing allow to access part of string
 
 syntax:

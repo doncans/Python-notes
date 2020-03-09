@@ -11,11 +11,17 @@ I) Features:
     8. Inegrated 
     
 note: Python can used for diffent domain software develoments(like desktop GUI applications, data science, iot, ai, ml, web applications, networking, telecome, storage...etc)
+*********************************************************************************************************************
+II) python installation on Windows
 
+https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
+
+Click on the Add path check box while installation 
+**********************************************************************************************************************
 Reserved Words:
 
 and, del, global, not, with, as, elif, if, or, yield, assert, else, import, pass, break, except, in, raise, class, finally,   is, return, continue,  for, lambda, try, def, from, nonlocal, while
-
+***********************************************************************************************************************
 Python Data Types:
 
 Numeric: 
@@ -29,7 +35,7 @@ sequence Type:
     
 Set
 Boolean
-
+*************************************************************************************************************************
 Variable:
 
 A Python variable is a symbolic name that is a reference or pointer to an object. Once an object is assigned to a variable, you can refer to the object by that name. But the data itself is still contained within the object.
@@ -37,14 +43,7 @@ A Python variable is a symbolic name that is a reference or pointer to an object
 a = 10
 
 Here 'a' is referencing integer object 10
-
-II) python installation on Windows
-
-https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
-
-Click on the Add path check box while installation 
-
----------------------------------------------------
+****************************************************************************************************************************
 String:
 
 string is a sequence of characters enclosing with in the single quotes or double quotes like 'hello world' or "hello world"

@@ -41,21 +41,35 @@ Click on the Add path check box while installation
 
 ---------------------------------------------------
 String:
+
 string is a sequence of characters enclosing with in the single quotes or double quotes like 'hello world' or "hello world"
+
 1> we can access individual characters using index
+
 2> index starts from Zero
+
 st1 = "Hello world"
        012345678910
-st1[0] = H
-st1[1] = e
-st1[2] = l ....like that etc..
+       
+st1[0] = 'H'
+
+st1[1] = 'e'
+
+st1[2] = 'l' ....like that etc..
+
 3>slicing allow to access part of string
+
 [start:stop:step]
 
 st1[0:4:1]
+
 'Hell'
+
 st1[0:4:2]
+
 'Hl'
-Common string Methods:capitalize(), casefold(), center(), lower(), upper(), join(), split(), find(), replace() etc.
+
+Common string Methods:
+    capitalize(), casefold(), center(), lower(), upper(), join(), split(), find(), replace() etc.
 
 

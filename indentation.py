@@ -24,10 +24,14 @@ def cube(l2):
 		cube_list.append(i**3)
 	return cube_list
 
-lst = [5,6,7,8]
-lst1 = sqr_val(lst)
-print(cube(lst1))
-print(cube(sqr_val(lst)))
+if __name__ == '__main__':
+	lst = [5,6,7,8]
+	lst1 = sqr_val(lst)
+	print(cube(lst1))
+	print(cube(sqr_val(lst)))
+	print(__name__)
+
+
 
 
 
